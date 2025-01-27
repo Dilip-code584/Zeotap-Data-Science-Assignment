@@ -134,6 +134,7 @@ Task 3: Customer Segmentation / Clustering
 Perform customer segmentation using clustering techniques on both profile and transaction information.
 
 Deliverables: A PDF report and a Python script containing the clustering analysis.
+
 License
 
 This project is open-source and available under the MIT License.
