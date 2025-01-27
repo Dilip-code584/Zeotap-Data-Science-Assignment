@@ -1,6 +1,6 @@
 Data Science Assignment: eCommerce Transactions Dataset
 
-(Please Run Via Virtual Environment And Ive plotted images via stroring them in png form)
+(Please Run Via Virtual Environment And Ive plotted images via storing them in png form)
 
 Overview
 This repository contains the solution for an eCommerce Data Science assignment, where the task was to analyze an eCommerce transactions dataset consisting of three files: Customers.csv, Products.csv, and Transactions.csv. The assignment involved performing exploratory data analysis (EDA), building a Lookalike Model, and performing customer segmentation using clustering techniques.
