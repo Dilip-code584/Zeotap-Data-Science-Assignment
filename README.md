@@ -1,1 +1,56 @@
-# Zeotap-Data-Science-Assignment
+Data Science Assignment: eCommerce Transactions Dataset
+Overview
+This repository contains the solution for an eCommerce Data Science assignment, where the task was to analyze an eCommerce transactions dataset consisting of three files: Customers.csv, Products.csv, and Transactions.csv. The assignment involved performing exploratory data analysis (EDA), building a Lookalike Model, and performing customer segmentation using clustering techniques.
+
+Setup and Installation
+To run this project, follow these steps:
+
+1. Set up the virtual environment
+It's recommended to run this project in a virtual environment to manage dependencies effectively. Follow the steps below to create and activate a virtual environment.
+
+bash
+Copy
+Edit
+python3 -m venv venv  # Create a virtual environment
+source venv/bin/activate  # Activate the virtual environment
+Once the virtual environment is activated, you'll see (venv) at the beginning of your command prompt.
+
+2. Install required modules
+You will need to install the following Python modules:
+
+pandas
+seaborn
+matplotlib
+scikit-learn
+numpy
+You can install these using the following command:
+
+bash
+Copy
+Edit
+pip install pandas seaborn matplotlib scikit-learn numpy
+3. Run the script
+Run the Python scripts to execute the tasks:
+
+Task 1: EDA and Business Insights
+Run the Python script Dilip_SagarM_EDA.py.
+
+Task 2: Lookalike Model
+Run the Python script Dilip_SagarM_Lookalike.py.
+
+Task 3: Customer Segmentation/Clustering
+Run the Python script Dilip_SagarM_Clustering.py.
+
+Task Breakdown
+Task 1: Exploratory Data Analysis (EDA) and Business Insights
+Perform exploratory data analysis (EDA) on the provided dataset.
+Derive at least 5 business insights based on the EDA.
+Deliverables: A Python script and a PDF report with business insights.
+Task 2: Lookalike Model
+Build a Lookalike Model that recommends 3 similar customers based on profile and transaction history.
+Deliverables: A CSV file containing the top 3 lookalikes with their similarity scores for the first 20 customers.
+Task 3: Customer Segmentation / Clustering
+Perform customer segmentation using clustering techniques on both profile and transaction information.
+Deliverables: A PDF report and a Python script containing the clustering analysis.
+License
+This project is open-source and available under the MIT License.
