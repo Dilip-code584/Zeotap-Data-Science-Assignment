@@ -106,9 +106,11 @@ Please note im saving all the images in png form instead of plotting it directly
 
 ![Dilip_SagarM_Clustering_Output](https://github.com/user-attachments/assets/9b874cd9-25f6-43a3-b863-f6b31cf90437)
 
+customer_segmentation_clusters image
+
 ![customer_segmentation_clusters](https://github.com/user-attachments/assets/6a8907cf-4143-4762-b764-bfd426395c5b)
 
-And csv file is also generated
+And Customer_Segmentation_Results.csv file is generated
 
 
 Task Breakdown
